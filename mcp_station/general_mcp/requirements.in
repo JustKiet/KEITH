@@ -1,0 +1,8 @@
+mcp[cli]
+pydantic
+uvicorn
+httpx
+openai
+requests
+loguru
+pydantic-settings

@@ -1,0 +1,15 @@
+fastapi
+loguru
+openai
+pip-chill
+tiktoken
+websockets
+scipy
+pymilvus
+pymilvus[model]
+mcp[cli]
+uvicorn
+httpx
+python-multipart
+requests
+peft

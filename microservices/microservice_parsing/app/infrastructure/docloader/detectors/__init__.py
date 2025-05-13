@@ -1,0 +1,1 @@
+from .doctr_detector import DoctrDetector

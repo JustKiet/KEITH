@@ -1,0 +1,3 @@
+from .vietocr_recognizer import VietOCRRecognizer
+from .thai_recognizer import ThaiOCRRecognizer
+from .english_recognizer import EnglishRecognizer

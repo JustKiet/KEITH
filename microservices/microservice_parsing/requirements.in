@@ -1,0 +1,33 @@
+# For openagentkit infrastructure
+loguru
+openai
+pip-chill
+tiktoken
+websockets
+scipy
+pymilvus
+mcp[cli]
+httpx
+
+# For the docloader infrastructure
+vietocr
+pydantic
+pydantic-settings
+torch
+torchvision
+transformers
+python-doctr
+pandas
+python-multipart
+accelerate
+PyMuPDF
+opencv-python-headless  # Added headless version (no GUI dependencies)
+langid
+easyocr
+openpyxl
+
+# For the microservice infrastructure
+requests
+websockets
+fastapi
+uvicorn
